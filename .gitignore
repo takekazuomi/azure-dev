@@ -6,7 +6,7 @@
 *.dylib
 
 # Output path for local repoman generation
-/.output
+#/.output
 
 # Test binary, built with `go test -c`
 *.test
