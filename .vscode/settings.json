@@ -4,5 +4,9 @@
     "-timeout",
     "30m"
   ],
-  "dotnet.defaultSolution": "disable"
+  "dotnet.defaultSolution": "disable",
+  "cSpell.words": [
+    "apim",
+    "pwsh"
+  ]
 }
